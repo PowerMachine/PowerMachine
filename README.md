@@ -33,7 +33,7 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 | [Paper Reviewer — Spring 2025 team project](https://github.com/PowerMachine/spring-2025-paper-reviewer) | PDF ingestion, retrieval, and LLM-assisted review drafts; published as Team 18 work. |
 | [PDF Document Reading & Translation](https://github.com/PowerMachine/pdf-document-reading-translator) | Testing document extraction, OCR, reading order, and translated PDF reconstruction. |
 | [STT Latency Benchmark](https://github.com/PowerMachine/stt-latency-benchmark) | Comparing speech-to-text processing time for a real-time interpreter prototype. |
-| [Selected SNU Coursework](https://github.com/PowerMachine/snu-coursework) | Semester-by-semester code samples in control, reinforcement learning, CUDA, and C++; a curated learning history. |
+| [Selected SNU Coursework](https://github.com/PowerMachine/SNU-coursework) | Semester-by-semester code samples in control, reinforcement learning, CUDA, and C++; a curated learning history. |
 | [U.S. Ward Experience Lab](https://github.com/PowerMachine/us-ward-experience-lab) | Bilingual desktop simulation of U.S. hospital workflows for Korean nurses. |
 
 These are research or prototype code samples, not production systems. Other work will be released only when data, permissions, and reproducibility are ready.
