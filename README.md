@@ -14,7 +14,22 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 | **Feedback-driven code revision** | A simulation prototype that proposes behavioral patches, tests them, and promotes only verified changes with rollback support. |
 | **Multimodal industrial AI** | Local VLM workflows for industrial drawings and visual question answering. |
 
-Explore the [Multi-Agent Autonomy Runtime](https://github.com/PowerMachine/multi-agent-autonomy): a runnable, local-first research code sample with agent coordination, model routing, safe defaults, and tests. Other research repositories and reproducible examples are being prepared for public release; they will document their evaluation setup, limitations, and my contribution.
+## Selected code
+
+| Project | What the repository shows |
+| --- | --- |
+| [Verified UGV Autonomy](https://github.com/PowerMachine/verified-ugv-autonomy) | Verification-first robot command path, dry-run controls, simulation, and 74 passing tests. |
+| [Multi-Agent Autonomy Runtime](https://github.com/PowerMachine/multi-agent-autonomy) | Local-first agent coordination, model routing, safe defaults, and 8 passing tests. |
+
+## Earlier explorations
+
+| Project | Focus |
+| --- | --- |
+| [Paper Reviewer — Spring 2025 team project](https://github.com/PowerMachine/spring-2025-paper-reviewer) | PDF ingestion, retrieval, and LLM-assisted review drafts; published as Team 18 work. |
+| [PDF Document Reading & Translation](https://github.com/PowerMachine/pdf-document-reading-translator) | Testing document extraction, OCR, reading order, and translated PDF reconstruction. |
+| [STT Latency Benchmark](https://github.com/PowerMachine/stt-latency-benchmark) | Comparing speech-to-text processing time for a real-time interpreter prototype. |
+
+These are research or prototype code samples, not production systems. Other work will be released only when data, permissions, and reproducibility are ready.
 
 ## Shipped project
 
