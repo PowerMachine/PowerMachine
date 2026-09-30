@@ -1,6 +1,6 @@
 # Sungmok (Sam) Kim
 
-I build AI systems that connect research models to real decisions. My work focuses on industrial condition monitoring, latency-aware LLM orchestration, multimodal reasoning, and safety-constrained autonomy.
+I build AI systems that connect research models to real decisions. My work focuses on evidence-grounded legal AI, multimodal reasoning, latency-aware LLM orchestration, and safety-constrained autonomy.
 
 Graduate researcher at Seoul National University · Seoul, South Korea  
 [LinkedIn](https://www.linkedin.com/in/sungmok-kim/)
@@ -9,6 +9,7 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 
 | Area | What I am building |
 | --- | --- |
+| **Evidence-grounded legal AI** | An on-premises workspace that separates legal sources, user facts, retrieved context, and model output across seven legal workflows. |
 | **PHM + LLM orchestration** | Event-triggered decision support for equipment anomalies, with latency budgets, evidence checks, and comparisons of always-on, gated, and staged inference. |
 | **Safe UGV autonomy** | A ROS-based runtime that verifies action candidates before execution, with operator approval, dry-run previews, and command safety checks. |
 | **Feedback-driven code revision** | A simulation prototype that proposes behavioral patches, tests them, and promotes only verified changes with rollback support. |
@@ -18,6 +19,7 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 
 | Project | What the repository shows |
 | --- | --- |
+| [Law Next — Legal AI Workspace](https://github.com/PowerMachine/law-next) | Master's research flagship: public architecture, product UI, and a bounded 70-case evaluation showing provisional rubric pass rate improving from 28.57% to 61.43% while critical errors fell from 39 to 12. Core implementation remains private. |
 | [Foundation Model Lab](https://github.com/PowerMachine/foundation-model-lab) · [Evidence site](https://powermachine.github.io/foundation-model-lab/) | Integrated research monorepo connecting multimodal post-training, agent evaluation, distributed correctness, and inference systems through one evidence contract. |
 | [Feedback-Driven Code Revision](https://github.com/PowerMachine/feedback-driven-code-revision) | LLM-proposed behavioral patches, deterministic verification, promotion/rollback, and a candid 60-run study including fallback and regression cases. |
 | [Domain-Aware VLM QA](https://github.com/PowerMachine/domain-aware-vlm-qa) | Local Qwen3-VL analysis with OCR, retrieval, protected-identifier handling, domain prompts, and conservative safety boundaries. |
@@ -32,6 +34,7 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 | [PDF Document Reading & Translation](https://github.com/PowerMachine/pdf-document-reading-translator) | Testing document extraction, OCR, reading order, and translated PDF reconstruction. |
 | [STT Latency Benchmark](https://github.com/PowerMachine/stt-latency-benchmark) | Comparing speech-to-text processing time for a real-time interpreter prototype. |
 | [Selected SNU Coursework](https://github.com/PowerMachine/snu-coursework) | Semester-by-semester code samples in control, reinforcement learning, CUDA, and C++; a curated learning history. |
+| [U.S. Ward Experience Lab](https://github.com/PowerMachine/us-ward-experience-lab) | Bilingual desktop simulation of U.S. hospital workflows for Korean nurses. |
 
 These are research or prototype code samples, not production systems. Other work will be released only when data, permissions, and reproducibility are ready.
 
