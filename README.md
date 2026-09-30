@@ -32,12 +32,6 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 
 These are research or prototype code samples, not production systems. Other work will be released only when data, permissions, and reproducibility are ready.
 
-## Shipped project
-
-### [U.S. Ward Experience Lab](https://github.com/PowerMachine/us-ward-experience-lab)
-
-A bilingual educational desktop simulation for Korean nurses exploring U.S. hospital workflows. It includes first-week scenarios, ward tours, patient cases, and SBAR practice. [View the project](https://github.com/PowerMachine/us-ward-experience-lab) · [Explore the landing page](https://PowerMachine.github.io/us-ward-experience-lab/)
-
 ## Working principles
 
 I care about measurable outcomes, reproducible experiments, and clear boundaries between AI recommendations and actions in the physical world.
