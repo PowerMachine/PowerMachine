@@ -38,6 +38,10 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 
 These are research or prototype code samples, not production systems. Other work will be released only when data, permissions, and reproducibility are ready.
 
+## Website engineering
+
+[SNU DLLAB and LLM Core AI website case studies](https://github.com/PowerMachine/website-engineering-case-studies) document my contributions to a university lab website and a company website: HTTPS and content-structure repairs, bilingual frontend and admin features, deployment, and ongoing updates. The case studies share work history without republishing organization-owned source code.
+
 ## Working principles
 
 I care about measurable outcomes, reproducible experiments, and clear boundaries between AI recommendations and actions in the physical world.
