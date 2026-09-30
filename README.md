@@ -18,6 +18,7 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 
 | Project | What the repository shows |
 | --- | --- |
+| [Foundation Model Lab](https://github.com/PowerMachine/foundation-model-lab) | Reproducible multimodal, agent-evaluation, distributed-correctness, and inference-systems experiments with explicit claim levels, CI, and sanitized public evidence. |
 | [Verified UGV Autonomy](https://github.com/PowerMachine/verified-ugv-autonomy) | Verification-first robot command path, dry-run controls, simulation, and 74 passing tests. |
 | [Multi-Agent Autonomy Runtime](https://github.com/PowerMachine/multi-agent-autonomy) | Local-first agent coordination, model routing, safe defaults, and 8 passing tests. |
 
@@ -40,3 +41,7 @@ A bilingual educational desktop simulation for Korean nurses exploring U.S. hosp
 ## Working principles
 
 I care about measurable outcomes, reproducible experiments, and clear boundaries between AI recommendations and actions in the physical world.
+
+## Publication boundary
+
+Public repositories are reviewed snapshots. Model weights, private datasets, credentials, field logs, and assets without clear redistribution rights are excluded or kept private. Each repository documents what its evidence supports and what it does not.
