@@ -14,7 +14,7 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 | **Feedback-driven code revision** | A simulation prototype that proposes behavioral patches, tests them, and promotes only verified changes with rollback support. |
 | **Multimodal industrial AI** | Local VLM workflows for industrial drawings and visual question answering. |
 
-Research repositories and reproducible examples are being prepared for public release. Each will include its evaluation setup, limitations, and a clear account of my contribution.
+Explore the [Multi-Agent Autonomy Runtime](https://github.com/PowerMachine/multi-agent-autonomy): a runnable, local-first research code sample with agent coordination, model routing, safe defaults, and tests. Other research repositories and reproducible examples are being prepared for public release; they will document their evaluation setup, limitations, and my contribution.
 
 ## Shipped project
 
