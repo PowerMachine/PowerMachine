@@ -18,7 +18,9 @@ Graduate researcher at Seoul National University · Seoul, South Korea
 
 | Project | What the repository shows |
 | --- | --- |
-| [Foundation Model Lab](https://github.com/PowerMachine/foundation-model-lab) · [Evidence site](https://powermachine.github.io/foundation-model-lab/) | Reproducible multimodal, agent-evaluation, distributed-correctness, and inference-systems experiments with explicit claim levels, CI, and sanitized public evidence. |
+| [Foundation Model Lab](https://github.com/PowerMachine/foundation-model-lab) · [Evidence site](https://powermachine.github.io/foundation-model-lab/) | Integrated research monorepo connecting multimodal post-training, agent evaluation, distributed correctness, and inference systems through one evidence contract. |
+| [Feedback-Driven Code Revision](https://github.com/PowerMachine/feedback-driven-code-revision) | LLM-proposed behavioral patches, deterministic verification, promotion/rollback, and a candid 60-run study including fallback and regression cases. |
+| [Domain-Aware VLM QA](https://github.com/PowerMachine/domain-aware-vlm-qa) | Local Qwen3-VL analysis with OCR, retrieval, protected-identifier handling, domain prompts, and conservative safety boundaries. |
 | [Verified UGV Autonomy](https://github.com/PowerMachine/verified-ugv-autonomy) | Verification-first robot command path, dry-run controls, simulation, and 74 passing tests. |
 | [Multi-Agent Autonomy Runtime](https://github.com/PowerMachine/multi-agent-autonomy) | Local-first agent coordination, model routing, safe defaults, and 8 passing tests. |
 
